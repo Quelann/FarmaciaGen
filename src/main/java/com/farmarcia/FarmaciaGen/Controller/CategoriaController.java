@@ -1,4 +1,4 @@
-package com.farmarcia.FarmaciaGen.Controller;
+package com.farmarcia.FarmaciaGen.controller;
 
 import java.util.List;
 
