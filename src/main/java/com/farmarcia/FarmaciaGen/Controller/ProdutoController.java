@@ -1,7 +1,7 @@
 package com.farmarcia.FarmaciaGen.controller;
 
 /*
- * @author Guilherme Barbosa Rodrigues
+ * @author Guilherme Barbosa Rodrigues.
  * @since 25/01/2022
  * @version 0.01
  */
