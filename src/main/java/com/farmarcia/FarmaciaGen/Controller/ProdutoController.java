@@ -23,8 +23,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.server.ResponseStatusException;
 
-import com.farmarcia.FarmaciaGen.Model.Produto;
-import com.farmarcia.FarmaciaGen.Repository.ProdutoRepository;
+import com.farmarcia.FarmaciaGen.model.Produto;
+import com.farmarcia.FarmaciaGen.repository.ProdutoRepository;
 
 @RestController
 @RequestMapping("/produto")

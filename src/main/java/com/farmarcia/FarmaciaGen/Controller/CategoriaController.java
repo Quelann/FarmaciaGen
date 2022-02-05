@@ -16,8 +16,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.server.ResponseStatusException;
 
-import com.farmarcia.FarmaciaGen.Model.Categoria;
-import com.farmarcia.FarmaciaGen.Repository.CategoriaRepository;
+import com.farmarcia.FarmaciaGen.model.Categoria;
+import com.farmarcia.FarmaciaGen.repository.CategoriaRepository;
 
 @RestController
 @RequestMapping("/categoria")
