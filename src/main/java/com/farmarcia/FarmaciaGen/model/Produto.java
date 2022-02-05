@@ -1,4 +1,4 @@
-package com.farmarcia.FarmaciaGen.Model;
+package com.farmarcia.FarmaciaGen.model;
 /*
  * @author Júlia I. O. dos Santos
  * @since 25/01/2022
